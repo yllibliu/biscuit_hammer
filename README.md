@@ -1,7 +1,7 @@
 # Biscuit Hammer Project
 
 
-TodO List
+Todo List
 
 1. Android/ios app
 2. Server 
